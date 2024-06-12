@@ -1,0 +1,190 @@
+{
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue",
+			"^uv-(.*)": "@climblee/uv-ui/components/uv-$1/uv-$1.vue",
+			"^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+		}
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/shipowner/shipowner",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		}
+	],
+	"subPackages": [
+		{
+			"root": "pageA",
+			"pages": [
+				{
+					"path": "activitiesDetail/activitiesDetail",
+					"style": {
+						"navigationBarTitleText": "商品详情",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "goImagedetail/goImagedetailone/goImagedetailone",
+					"style": {
+						"navigationBarTitleText": "活动一",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "goImagedetail/goImagedetailtwo/goImagedetailtwo",
+					"style": {
+						"navigationBarTitleText": "活动二",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "goImagedetail/goImagedetailthree/goImagedetailthree",
+					"style": {
+						"navigationBarTitleText": "活动三",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "productDetails/productDetails",
+					"style": {
+						"navigationBarTitleText": "商品详情",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "orderDetail/orderDetail",
+					"style": {
+						"navigationBarTitleText": "立即下单详情",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		},
+		{
+			"root": "pageC",
+			"pages": [
+				{
+					"path": "myProfile/myProfile",
+					"style": {
+						"navigationBarTitleText": "我的资料",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "inviteNewcomers/inviteNewcomers",
+					"style": {
+						"navigationBarTitleText": "邀请新人",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "taskCenter/taskCenter",
+					"style": {
+						"navigationBarTitleText": "任务中心",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "joiningBonus/joiningBonus",
+					"style": {
+						"navigationBarTitleText": "入职有奖",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "aboutUs/aboutUs",
+					"style": {
+						"navigationBarTitleText": "关于我们",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "orderList/orderList",
+					"style": {
+						"navigationBarTitleText": "订单列表",
+						"navigationStyle": "custom",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path" : "WalletList/WalletList",
+					"style" : 
+					{
+						"navigationBarTitleText" : "钱包",
+						"enablePullDownRefresh" : false
+					}
+				},
+				{
+					"path" : "takeMoney/takeMoney",
+					"style" : 
+					{
+						"navigationBarTitleText" : "提现",
+						"enablePullDownRefresh" : false
+					}
+				}
+
+			]
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	},
+	"tabBar": {
+		"selectedColor": "#2da1de",
+		"fontSize": "10px",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"selectedColor": "#2da1de"
+			},
+			{
+				"pagePath": "pages/shipowner/shipowner",
+				"text": "船主",
+				// "iconPath": "static/tar购物.png"
+				// "selectedIconPath": "static/tar购物(1).png",
+				"selectedColor": "#2da1de"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的",
+				// "iconPath": "static/tar活动.png",
+				// "selectedIconPath": "static/tar活动(1).png",
+				"selectedColor": "#2da1de"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}
