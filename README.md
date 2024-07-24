@@ -14,7 +14,7 @@
 
 8、调用微信支付接口<br>![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724110834400.png)<br>
 
-9、支付成功跳往订单编号 展示各个订单信息的状态 对订单进行管理![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724111140615.png)<br>
+9、支付成功跳往订单编号 展示各个订单信息的状态 对订单进行管理<br>![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724111140615.png)<br>
 
 10、对订单进行管理<br>![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724111310118.png)<br>
 
