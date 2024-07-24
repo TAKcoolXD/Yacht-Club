@@ -1,10 +1,10 @@
-1、首页展示 ![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724105606268.png)
+1、首页展示 <br> ![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724105606268.png) <br>
 
-2、首页轮播图点击查看详情 ![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724105912591.png)
+2、首页轮播图点击查看详情 <br> ![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724105912591.png)  <br>
 
-3、各个项目详情展示 可以通过选择字段或者搜索关键字进行筛选![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724110345547.png)
+3、各个项目详情展示 可以通过选择字段或者搜索关键字进行筛选![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724110345547.png) 
 
-4、商品详情的展示![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724110443880.png)
+4、商品详情的展示![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724110443880.png) 
 
 5、进行商品的预约![image](https://github.com/TAKcoolXD/Yacht-Club/blob/main/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/image-20240724110518276.png)
 
